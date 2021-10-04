@@ -5,4 +5,4 @@
 # 2. BOE Capital Improvement Projects Lines
 1. **Description**: This data set includes capital improvement projects which are city funded infrastructure projects, such as parks, streets, bridges, etc. It includes many details about each project, including construction costs, dates, and council districts. I might use this data as one source to look at how infrastructure funding is spent throughout LA, though I would want to look at it in conjunction with data from other projects with different funding sources as well. 
 2. **Source**: [Los Angeles City GeoHub](https://geohub.lacity.org/datasets/lahub::boe-capital-improvement-projects-lines/about)
-3. [Link to data in my Repo]
+3. [Link to data in my Repo](https://github.com/dgparnes/up206-danielle/blob/main/Data/BOE_Capital_Improvement_Projects_Lines.csv.zip)

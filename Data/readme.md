@@ -1,5 +1,8 @@
 # 1. Los Angeles Collisions 2014 through 2019
-  1. Description: This data set includes details about all of the road collisions from 2014 to 2019 on roads that are within the Los Angeles City jurisdiction, not including state highways. It includes many characteristics of each collision, including data like serverity of injury, time of day, and what types of vehicles were involved. I downloaded the CSV file, but its also available to download as KML, Shapefile, and GeoJSON
-  2. Source: [Los Angeles City GeoHub](https://geohub.lacity.org/datasets/ladot::los-angeles-collisions-2014through2019/about), from the The Statewide Integrated Traffic Records System (SWITRS) and prepared by RoadSafeGIS
-  3. [Link to data on Repo](https://github.com/dgparnes/up206-danielle/blob/main/Data/Collisions_2014-2019__SWITRS_.csv.zip)
-# 2. 
+  1. **Description**: This data set includes details about all of the road collisions from 2014 to 2019 on roads that are within the Los Angeles City jurisdiction, not including state highways. It includes many characteristics of each collision, including data like serverity of injury, time of day, and what types of vehicles were involved. I might use this data to identify the common characteristics of corridors with high numbers of fatalities. I downloaded the CSV file, but its also available to download as KML, Shapefile, and GeoJSON
+  2. **Source**: [Los Angeles City GeoHub](https://geohub.lacity.org/datasets/ladot::los-angeles-collisions-2014through2019/about), from the The Statewide Integrated Traffic Records System (SWITRS) and prepared by RoadSafeGIS
+  3. [Link to data in my Repo](https://github.com/dgparnes/up206-danielle/blob/main/Data/Collisions_2014-2019__SWITRS_.csv.zip)
+# 2. BOE Capital Improvement Projects Lines
+1. **Description**: This data set includes capital improvement projects which are city funded infrastructure projects, such as parks, streets, bridges, etc. It includes many details about each project, including construction costs, dates, and council districts. I might use this data as one source to look at how infrastructure funding is spent throughout LA, though I would want to look at it in conjunction with data from other projects with different funding sources as well. 
+2. **Source**: [Los Angeles City GeoHub](https://geohub.lacity.org/datasets/lahub::boe-capital-improvement-projects-lines/about)
+3. [Link to data in my Repo]
